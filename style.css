@@ -1,0 +1,14 @@
+#screen { 
+    width: 800px;
+    height: 600px;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
